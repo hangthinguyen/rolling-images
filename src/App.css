@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.banners-container {
+  display: -webkit-inline-box;
+}
